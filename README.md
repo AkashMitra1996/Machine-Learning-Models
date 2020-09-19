@@ -1,3 +1,2 @@
-# hello-world
-just learning to create a new repiratory 
-gfhrd
+#sample machine learning models
+startup profit prediction- Multiplr linear regression
